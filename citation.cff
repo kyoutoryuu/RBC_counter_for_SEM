@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this ImageJ/Fiji macro, please cite the associated Lab on a Chip article."
+title: "RBC SEM Counter ImageJ Macro"
+type: software
+authors:
+  - family-names: Yetisgin
+    given-names: Abuzer Alp
+version: 1.0.0
+date-released: 2026-05-06
+license: MIT
+repository-code: "https://github.com/kyoutoryuu/RBC-counter_for_SEM"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Yetisgin
+      given-names: Abuzer Alp
+    - family-names: Ozogul
+      given-names: Beyzanur
+    - family-names: Akar
+      given-names: Unal
+    - family-names: Mercimek
+      given-names: Rabia
+    - family-names: Sarraf
+      given-names: Seyedali Seyedmirzaei
+    - family-names: Elverdi
+      given-names: Tugrul
+    - family-names: Amani
+      given-names: Ehsan
+    - family-names: Grishenkov
+      given-names: Dmitry
+    - family-names: Koşar
+      given-names: Ali
+    - family-names: Ghorbani
+      given-names: Morteza
+  title: "Thrombolytic potential of the hydrodynamic cavitation on a chip concept: insights into clot degradation"
+  journal: "Lab on a Chip"
+  year: 2026
+  volume: 26
+  issue: 1
+  start: 24
+  end: 39
+  doi: "10.1039/d5lc00482a"
