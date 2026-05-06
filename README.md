@@ -5,9 +5,9 @@ ImageJ/Fiji macro for semi-automated quantification of red blood cell density in
 
 This repository contains the ImageJ/Fiji macro used for semi-automated red blood cell (RBC) counting and RBC density estimation in scanning electron microscopy (SEM) images for the published article:
 
-Yetisgin, A. A., Ozogul, B., Akar, U., Mercimek, R., Sarraf, S. S., Elverdi, T., Amani, E., Grishenkov, D., Koşar, A., and Ghorbani, M.  
+Yetisgin, A.A., Ozogul, B., Akar, U., Mercimek, R., Sarraf, S.S., Elverdi, T., Amani, E., Grishenkov, D., Koşar, A. and Ghorbani, M., 2026. 
 **Thrombolytic potential of the “hydrodynamic cavitation on a chip” concept: insights into clot degradation.**  
-*Lab on a Chip*, 2025. DOI: 10.1039/d5lc00482a.
+*Lab on a Chip*, 26(1), pp.24-39. DOI: 10.1039/d5lc00482a.
 
 ## Purpose
 
